@@ -1,0 +1,1 @@
+An in-depth PowerBI project dissecting responses from data professionals on key aspects such as preferred programming languages, salary satisfaction, and entry barriers into the data field. This project offers a nuanced understanding of the current trends and challenges faced by data practitioners.
